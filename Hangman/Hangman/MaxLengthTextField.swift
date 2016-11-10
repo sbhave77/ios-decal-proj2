@@ -4,7 +4,8 @@
 //
 //  Created by Shreyas Bhave on 11/9/16.
 //  Copyright © 2016 Shawn D'Souza. All rights reserved.
-//
+// TAKEN FROM: http://www.globalnerdy.com/2016/09/05/swift-3-text-field-magic-part-1-creating-text-fields-with-maximum-lengths/ 
+
 
 import UIKit
 
